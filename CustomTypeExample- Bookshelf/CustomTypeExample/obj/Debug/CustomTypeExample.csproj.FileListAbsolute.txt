@@ -1,0 +1,16 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\bin\Debug\CustomTypeExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample\CustomTypeExample\obj\Debug\CustomTypeExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\bin\Debug\CustomTypeExample.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\bin\Debug\CustomTypeExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\bin\Debug\CustomTypeExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\obj\Debug\CustomTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\obj\Debug\CustomTypeExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\CustomTypeExample- Bookshelf\CustomTypeExample\obj\Debug\CustomTypeExample.pdb

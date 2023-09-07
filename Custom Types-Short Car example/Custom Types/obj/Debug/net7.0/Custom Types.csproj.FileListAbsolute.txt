@@ -1,0 +1,15 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\bin\Debug\net7.0\Custom Types.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\bin\Debug\net7.0\Custom Types.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\bin\Debug\net7.0\Custom Types.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\bin\Debug\net7.0\Custom Types.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\bin\Debug\net7.0\Custom Types.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\refint\Custom Types.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\Custom Types.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\Custom Types\Custom Types\obj\Debug\net7.0\ref\Custom Types.dll
