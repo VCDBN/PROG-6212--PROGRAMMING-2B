@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2023\\Lesson Plans\\Programming 2B- PROG 6212\\Session 1-2\\LazyInitilizationExample\\LazyInitilizationExample\\LazyInitilizationExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2023\\Lesson Plans\\Programming 2B- PROG 6212\\Session 1-2\\LazyInitilizationExample\\LazyInitilizationExample\\LazyInitilizationExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2023\\Lesson Plans\\Programming 2B- PROG 6212\\Session 1-2\\LazyInitilizationExample\\LazyInitilizationExample\\LazyInitilizationExample.csproj",
+        "projectName": "LazyInitilizationExample",
+        "projectPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2023\\Lesson Plans\\Programming 2B- PROG 6212\\Session 1-2\\LazyInitilizationExample\\LazyInitilizationExample\\LazyInitilizationExample.csproj",
+        "packagesPath": "C:\\Users\\dengovender\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dengovender\\OneDrive - ADvTECH Ltd\\Desktop\\VC WORK 2023\\Lesson Plans\\Programming 2B- PROG 6212\\Session 1-2\\LazyInitilizationExample\\LazyInitilizationExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dengovender\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

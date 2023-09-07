@@ -1,0 +1,15 @@
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\bin\Debug\net7.0\ShoppingcartExample.exe
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\bin\Debug\net7.0\ShoppingcartExample.deps.json
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\bin\Debug\net7.0\ShoppingcartExample.runtimeconfig.json
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\bin\Debug\net7.0\ShoppingcartExample.dll
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\bin\Debug\net7.0\ShoppingcartExample.pdb
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.csproj.AssemblyReference.cache
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.AssemblyInfoInputs.cache
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.AssemblyInfo.cs
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.csproj.CoreCompileInputs.cache
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.dll
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\refint\ShoppingcartExample.dll
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.pdb
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ShoppingcartExample.genruntimeconfig.cache
+C:\Users\Dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 3-4\ShoppingcartExample\ShoppingcartExample\obj\Debug\net7.0\ref\ShoppingcartExample.dll
