@@ -1,0 +1,30 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\MySystem.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\MySystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\MySystem.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\EntityFramework.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\EntityFramework.xml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.Form1.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.Properties.Resources.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.csproj.GenerateResource.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.csproj.CopyComplete
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem\obj\Debug\MySystem.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\MySystem.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\MySystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\MySystem.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\EntityFramework.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\EntityFramework.xml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.Form1.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.Properties.Resources.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.csproj.GenerateResource.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.csproj.CopyComplete
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 31- 32\MySystem - Working app\obj\Debug\MySystem.pdb
