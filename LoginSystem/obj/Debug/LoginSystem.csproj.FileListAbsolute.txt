@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\bin\Debug\LoginSystem.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\bin\Debug\LoginSystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.Form1.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.RegistrationForm.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\bin\Debug\BCrypt.Net.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\bin\Debug\BCrypt.Net.xml
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Session 29-30\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
