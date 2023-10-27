@@ -1,0 +1,20 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\bin\Debug\Part2POE.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\bin\Debug\Part2POE.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\bin\Debug\Part2POE.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.Form1.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.Properties.Resources.resources
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.csproj.GenerateResource.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 2B- PROG 6212\Part2POE\obj\Debug\Part2POE.pdb
+C:\Users\dengovender\Downloads\Part2POE\bin\Debug\Part2POE.exe.config
+C:\Users\dengovender\Downloads\Part2POE\bin\Debug\Part2POE.exe
+C:\Users\dengovender\Downloads\Part2POE\bin\Debug\Part2POE.pdb
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.csproj.AssemblyReference.cache
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.Properties.Resources.resources
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.csproj.GenerateResource.cache
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.exe
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.pdb
+C:\Users\dengovender\Downloads\Part2POE\obj\Debug\Part2POE.Form2.resources
